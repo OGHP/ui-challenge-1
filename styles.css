@@ -1,5 +1,6 @@
 * {
     text-align: center;
+    box-sizing: border-box;
 }
 
 body {
@@ -9,25 +10,29 @@ body {
 
 @media only screen and (max-width: 768px) and (min-width: 480px)  {
     .a {
-        background-color: orange;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 75px;
         line-height: 75px;
     }
 
     .b {
-        background-color: blue;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 150px;
         line-height: 155px;
     }
 
     .c {
-        background-color: teal;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 125px;
         line-height: 125px;
     }
 
     .d {
-        background-color: teal;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 125px;
         line-height: 125px;
     }
@@ -37,7 +42,8 @@ body {
     }
 
     .e {
-        background-color: yellow;
+        background-color: darkgrey;
+        border: 1px solid gray;
         float: left;
         height: 250px;
         line-height: 250px;
@@ -45,7 +51,8 @@ body {
     }
 
     .f {
-        background-color: yellow;
+        background-color: darkgrey;
+        border: 1px solid gray;
         float: left;
         height: 250px;
         line-height: 250px;
@@ -57,7 +64,8 @@ body {
     }
 
     .g {
-        background-color: pink;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 250px;
         line-height: 250px;
         float: left;
@@ -65,7 +73,8 @@ body {
     }
 
     .h {
-        background-color: pink;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 250px;
         line-height: 250px;
         float: left;
@@ -73,7 +82,8 @@ body {
     }
 
     .i {
-        background-color: red;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 80px;
         line-height: 80px;
         width: 100%;
@@ -84,13 +94,15 @@ body {
 
 @media (min-width: 768px) {
     .a {
-        background-color: orange;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 100px;
         line-height: 100px;
     }
 
     .b {
-        background-color: blue;
+        background-color: darkgrey;
+        border: 1px solid gray;
         float: left;
         height: 600px;
         line-height: 600px;
@@ -98,7 +110,8 @@ body {
     }
 
     .c {
-        background-color: teal;
+        background-color: darkgrey;
+        border: 1px solid gray;
         float: left;
         height: 200px;
         line-height: 200px;
@@ -106,7 +119,8 @@ body {
     }
 
     .d {
-        background-color: teal;
+        background-color: darkgrey;
+        border: 1px solid gray;
         float: left;
         height: 200px;
         line-height: 200px;
@@ -118,7 +132,8 @@ body {
     }
 
     .e {
-        background-color: yellow;
+        background-color: darkgrey;
+        border: 1px solid gray;
         float: left;
         height: 250px;
         line-height: 250px;
@@ -126,7 +141,8 @@ body {
     }
 
     .f {
-        background-color: yellow;
+        background-color: darkgrey;
+        border: 1px solid gray;
         float: left;
         height: 250px;
         line-height: 250px;
@@ -138,7 +154,8 @@ body {
     }
 
     .g {
-        background-color: pink;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 250px;
         line-height: 250px;
         float: left;
@@ -146,7 +163,8 @@ body {
     }
 
     .h {
-        background-color: pink;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 250px;
         line-height: 250px;
         float: left;
@@ -154,7 +172,8 @@ body {
     }
 
     .i {
-        background-color: red;
+        background-color: darkgrey;
+        border: 1px solid gray;
         height: 150px;
         line-height: 150px;
         width: 760px;
