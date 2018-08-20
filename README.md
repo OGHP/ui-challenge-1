@@ -1,6 +1,6 @@
 # UI Challenge 1
 
-## Author:
+### Author:
 Heather Palmer
 
 ### Task:
